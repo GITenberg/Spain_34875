@@ -1,0 +1,29 @@
+_repo: Spain_34875
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34875-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Webster, Wentworth
+    birthdate: 1829
+    deathdate: 1907
+    gutenberg_agent_id: '37295'
+    url: http://www.gutenberg.org/2009/agents/37295
+description: ''
+gutenberg_issued: '2011-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34875'
+  lccn: '04025773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Social life and customs'
+- !lcc 'DP'
+- !lcsh 'Spain -- History'
+- !lcsh 'Spain -- Description and travel'
+title: Spain
+url: http://www.gutenberg.org/ebooks/34875
